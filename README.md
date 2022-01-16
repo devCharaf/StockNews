@@ -1,4 +1,4 @@
-# stock-news
+# StockNews
 The goal of this practical project is to have a program that gives you informations about the price of your preferred stock. It checks yesterday's closing price, compares it with the day before. If the price goes up or drops by 5%, it notifies the user via SMS. The SMS 
 
 The SMS message looks like this:
