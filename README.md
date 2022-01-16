@@ -3,8 +3,8 @@ The goal of this practical project is to have a program that gives you informati
 
 The SMS message looks like this:
 
-> TSLA: 🔺5.7%
-Headline: Exclusive: Tesla delays initial production of Cybertruck to early 2023
+> TSLA: 🔺5.7%\
+Headline: Exclusive: Tesla delays initial production of Cybertruck to early 2023\
 [Brief](https://www.reuters.com/technology/exclusive-tesla-delays-initial-production-cybertruck-early-2023-source-2022-01-13/): SAN FRANCISCO, Jan 13 (Reuters) - Tesla Inc (TSLA.O) aims to start initial production of its much-anticipated Cybertruck by the end of the first quarter of 2023, pushing back its plan to begin production late this year, a person familiar with the matter told Reuters on Thursday. 
 
 
