@@ -12,4 +12,4 @@ Headline: Exclusive: Tesla delays initial production of Cybertruck to early 2023
 
 * **Change some variables:** Change the environment variables accordingly.
 * **API keys:** Also don't forget to use your own API keys.
-* **Pythonanywhere:** You can automate this program to check the Stock prices every morning and send you an SMS say at 7 AM via https://www.pythonanywhere.com/
+* **Pythonanywhere:** You can automate this program to check the Stock prices every morning and send you an SMS say at 7 AM via [pythonanywhere](https://www.pythonanywhere.com/).
